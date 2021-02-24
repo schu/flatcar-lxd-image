@@ -30,3 +30,9 @@ Type: virtual-machine
 
 [...]
 ```
+
+To access the launched VM, `lxc console` can be used:
+
+```
+lxc console v1
+```
