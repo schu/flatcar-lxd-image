@@ -9,6 +9,8 @@ qemu virtual machine images into [LXD](https://linuxcontainers.org/lxd/).
 ./flatcar-lxd-image [<channel> [<version> [<lxd name alias>]]]
 ```
 
+Default `<channel>` and `<version>` is the latest stable release.
+
 ```
 [...]
 
